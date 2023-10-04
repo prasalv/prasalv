@@ -1,26 +1,25 @@
 Unexpected character ('<' (code 60)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
- at [Source: (String)"<html>
-
-<head><title>403 Forbidden</title></head>
-
-<body>
-
-<center><h1>403 Forbidden</h1></center>
-
-<hr><center>cloudflare</center>
-
-</body>
-
-</html>
-
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-
-<!-- a padding"[truncated 53 chars]; line: 1, column: 2]
+ at [Source: (String)"<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>Heroku | Application Error</title>
+    <style media="screen">
+      html,body,iframe {
+        margin: 0;
+        padding: 0;
+      }
+      html,body {
+        height: 100%;
+        overflow: hidden;
+      }
+      iframe {
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <iframe src="//www.herokucdn"[truncated 63 chars]; line: 1, column: 2]
